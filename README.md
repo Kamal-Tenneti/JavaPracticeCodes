@@ -1,0 +1,2 @@
+# JavaPracticeCodes
+Java Pratice Repository
