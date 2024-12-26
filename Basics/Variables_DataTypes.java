@@ -18,7 +18,7 @@ public class Variables_DataTypes {
 		System.out.println(gender);
 		System.out.println(isvalid);	
 		
-		//Non-primitive data type
+		//Non-primitive data type or Reference Type
 		String name="Kamal";
 		System.out.println(name);
 		
