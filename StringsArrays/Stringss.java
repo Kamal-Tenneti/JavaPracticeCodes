@@ -23,5 +23,7 @@ public class Stringss{
         System.out.println(str3.toLowerCase());
         System.out.println(str3.toUpperCase());
         System.out.println(str3.trim());
+        System.out.println(str2.replace(str2, "Kamal"));
+        
     }
 }
